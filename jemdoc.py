@@ -318,7 +318,7 @@ def parseconf(cns):
   return syntax
 
 def insertmenuitems(f, mname, current, prefix):
-  m = open(mname,'rb')
+  m = open(mname,'rb') #"C:\Users\Sura\Sourbhbh.github.io\MENU"
   while pc(controlstruct(m)) != '':
     l = readnoncomment(m)
     l = l.strip()
