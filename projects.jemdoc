@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{projects.html}
+= Research Projects 
+
+== Locally Recoverable Codes (LRCs) with Availability (Master's Thesis) 
+
+Modern distributed storage systems use erasure codes to protect themselves against server failures or node failures more efficiently and reliably. Locally Recoverable Codes (LRCs)
+are a class of codes that seek to minimize the number of nodes required to repair a failed node. Having multiple disjoint repair groups for a node is useful for [/http://www.ibmbigdatahub.com/blog/your-big-data-hot-warm-or-cold "hot" data] 
+
+= Course Projects 
+
+== Capacity Upper Bounds for the Symmetric Diamond Relay Network
