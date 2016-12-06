@@ -3,10 +3,16 @@
 
 == Locally Recoverable Codes (LRCs) with Availability (Master's Thesis) 
 
-Modern distributed storage systems use erasure codes to protect themselves against server failures or node failures more efficiently and reliably. Locally Recoverable Codes (LRCs)
-are a class of codes that seek to minimize the number of nodes required to repair a failed node. Multiple disjoint repair groups for a node is useful for [/http://www.ibmbigdatahub.com/blog/your-big-data-hot-warm-or-cold "hot" data] 
+Modern distributed storage systems use erasure codes to protect themselves against server failures or node failures more efficiently and reliably. \n Locally Recoverable Codes (LRCs)
+are a class of codes that seek to minimize the number of nodes required to repair a failed node. LRCs with \n multiple disjoint repair groups find applications in recovering from multiple node failures and 
+accessibility of "hot" data, leading to these codes \n being called LRCs with availability. \n \n Our work attempts to construct LRCs with availability that are optimal with respect to distance. 
+In addition, we also try to develop upper bounds \n for various scenarios concerning LRCs with availability and seek to construct codes that meet these bounds. Our key contributions
+so far include
+\n showing optimality of a known construction for special cases, deriving distance upper bounds for LRCs with unequal locality and availability and \n an explicit parity-check matrix construction
+for LRCs with information locality and availability. 
+Refer [/publications.html Publications] 1.
 
-= Course Projects 
+= Course Projects 	
 
 == Capacity Upper Bounds for the Symmetric Diamond Relay Network
 Wu
