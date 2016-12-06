@@ -10,7 +10,7 @@ In addition, we also try to develop upper bounds \n for various scenarios concer
 so far include
 \n showing optimality of a known construction for special cases, deriving distance upper bounds for LRCs with unequal locality and availability and \n an explicit parity-check matrix construction
 for LRCs with information locality and availability. 
-Refer [/publications.html Publications] 1.
+Refer [/publications.html Publication 1]
 
 = Course Projects 	
 
