@@ -2,20 +2,24 @@
 = Research Projects 
 
 == Locally Recoverable Codes (LRCs) with Availability (Master's Thesis) 
-
+*Guide :* [http://www.ee.iitm.ac.in/~andrew/ *Prof. Andrew Thangaraj*	] \n \n
 Modern distributed storage systems use erasure codes to protect themselves against server failures or node failures more efficiently and reliably. \n Locally Recoverable Codes (LRCs)
 are a class of codes that seek to minimize the number of nodes required to repair a failed node. LRCs with \n multiple disjoint repair groups find applications in recovering from multiple node failures and 
-accessibility of "hot" data, leading to these codes \n being called LRCs with availability. \n \n Our work attempts to construct LRCs with availability that are optimal with respect to distance. 
-In addition, we also try to develop upper bounds \n for various scenarios concerning LRCs with availability and seek to construct codes that meet these bounds. Our key contributions
+accessibility of "hot" data, leading to these codes \n being called LRCs with availability. \n \n My work attempts to construct LRCs with availability that are optimal with respect to distance. 
+In addition, I also try to develop upper bounds \n for various scenarios concerning LRCs with availability and seek to construct codes that meet these bounds. Our key contributions
 so far include
-\n showing optimality of a known construction for special cases, deriving distance upper bounds for LRCs with unequal locality and availability and \n an explicit parity-check matrix construction
+\n showing optimality of a known construction for special cases, deriving distance upper bounds for LRCs with unequal locality and availability and \n an explicit optimal parity-check matrix construction
 for LRCs with information locality and availability. 
 Refer [/publications.html Publication 1]
 
+== Upper Bounds for MIMO Z Channels and Weighted Sum-rate Maximization for Gaussian MIMO MAC
+*Guide :* [http://www.ee.iitm.ac.in/~skrishna/ *Prof. Srikrishna Bhashyam*	] \n \n
+I worked with Prof. Srikrishna Bhashyam on two problems in network information theory. The first problem was to find optimal 
+covariance \n matrices that maximize the weighted sum-rate for the Gaussian MIMO MAC. For maximizing the sum-rate an elegant water-filling 
+algorithm is \n given [http://www.comm.utoronto.ca/~weiyu/01262622.pdf here]. Our approach was to extend these ideas and exploit geometric properties of the existing algorithm 
+to find a simple waterfilling algorithm \n that finds covariance matrices which maximize the weighted sum-rate. \n The second problem that I worked on was on providing a theoretical 
+for an upper bound being 
 = Course Projects 	
 
 == Capacity Upper Bounds for the Symmetric Diamond Relay Network
-Wu
-[index.html \[index.html\]]
 
-[/index.html \[\/index.html\]]
