@@ -10,15 +10,16 @@ In addition, I also try to develop upper bounds \n for various scenarios concern
 so far include
 \n showing optimality of a known construction for special cases, deriving distance upper bounds for LRCs with unequal locality and availability and \n an explicit optimal parity-check matrix construction
 for LRCs with information locality and availability. 
-Refer [/publications.html Publication 1]
+*Refer* [/publications.html Publication 1]
 
-== Upper Bounds for MIMO Z Channels and Weighted Sum-rate Maximization for Gaussian MIMO MAC
+== Upper Bounds for Gaussian MIMO Z Channels and Weighted Sum-rate Maximization for Gaussian MIMO MAC
 *Guide :* [http://www.ee.iitm.ac.in/~skrishna/ *Prof. Srikrishna Bhashyam*	] \n \n
 I worked with Prof. Srikrishna Bhashyam on two problems in network information theory. The first problem was to find optimal 
-covariance \n matrices that maximize the weighted sum-rate for the Gaussian MIMO MAC. For maximizing the sum-rate an elegant water-filling 
-algorithm is \n given [http://www.comm.utoronto.ca/~weiyu/01262622.pdf here]. Our approach was to extend these ideas and exploit geometric properties of the existing algorithm 
-to find a simple waterfilling algorithm \n that finds covariance matrices which maximize the weighted sum-rate. \n The second problem that I worked on was on providing a theoretical 
-for an upper bound being 
+covariance \n matrices that maximize the weighted sum-rate for the Gaussian MIMO Multiple Access Channel. For maximizing the sum-rate an elegant \n water-filling 
+algorithm is given [http://www.comm.utoronto.ca/~weiyu/01262622.pdf here]. Our approach was to extend these ideas and exploit geometric properties of the existing algorithm 
+to \n find a simple waterfilling algorithm that finds covariance matrices which maximize the weighted sum-rate. \n The second problem that I worked on was related to Gaussian MIMO Z Channels or the one-sided interference channel. An upper bound \n on the sum-rate of the Gaussian MIMO Z Channel was proposed by [ieeexplore.ieee.org/iel5/18/4418455/04418479.pdf Jafar and Shamai]. [http://www.ee.iitm.ac.in/~skrishna/papers/tcom15.pdf Prasad et al] proposed a new upper bound based on \n reducing the interference at one of the receivers. Numerically, this was shown to be tighter than the previous upper bound. My work focused \n on obtaining an analytical proof of the tightness. We showed the equivalence of this problem to a simple comparison of determinants of two \n matrices using convex optimization techniques.
+
+== IITMSAT Downlink 
 = Course Projects 	
 
 == Capacity Upper Bounds for the Symmetric Diamond Relay Network
