@@ -21,8 +21,8 @@ to \n find a simple waterfilling algorithm that finds covariance matrices which 
 
 == Downlink Communication System for IITMSAT
 *Guide :* [https://www.iitm.ac.in/info/fac/davidk *Prof. David Koilpillai*] \n \n
-[http://iitmsat.weebly.com/ IITMSAT] is the nanosatellite initiative of IIT Madras whose primary mission is to study the precipitation of high-energy charged particles (protons and electrons) from Van Allen belts. IITMSAT is scheduled to be launched in early 2017. 
-I was a part of the communication subsystem as a sophomore. From a communications perspective, IITMSAT has a distinctly high downlink data rate requirement of about 1 Mb per day which no nanosatellite has attempted previously. This required our subsystem to choose novel approaches like using a Software-Defined Radio (Perseus) based receiver and implement receiver algorithms using GNURadio.  
+[http://iitmsat.weebly.com/ IITMSAT] is the nanosatellite initiative of IIT Madras whose primary mission is to study the precipitation of high-energy charged particles \n (protons and electrons) from Van Allen belts. IITMSAT is scheduled to be launched in early 2017. \n\n 
+I was a part of the communication subsystem as a sophomore. From a communications perspective, IITMSAT has a distinctly high downlink \n data rate requirement of about 1 Mb per day which no nanosatellite has attempted previously. In addition, due to the satellite being launched \n in a Low-Earth orbit (LEO), the ground station at IIT Madras has a pass time of approximately 20 minutes per day, thus necessitating the full \n utilization of the pass, including lowe elevation angles where SNR is quite poor. Mitigating these challenges required our subsystem to choose \n novel approaches like using a Software-Defined Radio (Perseus) based receiver and implementing novel receiver algorithms using GNURadio.\n I worked on 
 = Course Projects 	
 
 == Capacity Upper Bounds for the Symmetric Diamond Relay Network
