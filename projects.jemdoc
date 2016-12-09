@@ -19,7 +19,10 @@ covariance \n matrices that maximize the weighted sum-rate for the Gaussian MIMO
 algorithm is given [http://www.comm.utoronto.ca/~weiyu/01262622.pdf here]. Our approach was to extend these ideas and exploit geometric properties of the existing algorithm 
 to \n find a simple waterfilling algorithm that finds covariance matrices which maximize the weighted sum-rate. \n The second problem that I worked on was related to Gaussian MIMO Z Channels or the one-sided interference channel. An upper bound \n on the sum-rate of the Gaussian MIMO Z Channel was proposed by [ieeexplore.ieee.org/iel5/18/4418455/04418479.pdf Jafar and Shamai]. [http://www.ee.iitm.ac.in/~skrishna/papers/tcom15.pdf Prasad et al] proposed a new upper bound based on \n reducing the interference at one of the receivers. Numerically, this was shown to be tighter than the previous upper bound. My work focused \n on obtaining an analytical proof of the tightness. We showed the equivalence of this problem to a simple comparison of determinants of two \n matrices using convex optimization techniques.
 
-== IITMSAT Downlink 
+== Downlink Communication System for IITMSAT
+*Guide :* [https://www.iitm.ac.in/info/fac/davidk *Prof. David Koilpillai*] \n \n
+[http://iitmsat.weebly.com/ IITMSAT] is the nanosatellite initiative of IIT Madras whose primary mission is to study the precipitation of high-energy charged particles (protons and electrons) from Van Allen belts. IITMSAT is scheduled to be launched in early 2017. 
+I was a part of the communication subsystem as a sophomore. From a communications perspective, IITMSAT has a distinctly high downlink data rate requirement of about 1 Mb per day which no nanosatellite has attempted previously. This required our subsystem to choose novel approaches like using a Software-Defined Radio (Perseus) based receiver and implement receiver algorithms using GNURadio.  
 = Course Projects 	
 
 == Capacity Upper Bounds for the Symmetric Diamond Relay Network
