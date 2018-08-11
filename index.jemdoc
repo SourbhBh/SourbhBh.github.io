@@ -1,15 +1,23 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: {index.html}
 = Sourbh Bhadane
 
 ~~~
- {}{img_left}{mypic.jpg}{}{300}{250}{}
+ {}{img_left}{mypic.jpg}{}{200}{200}{}
+== About Me
+I am a second year graduate student in the  [https://www.ece.cornell.edu/ ECE] department at Cornell University, advised by [https://people.ece.cornell.edu/acharya/ Jayadev Acharya]. \n My research interests broadly lie in theoretical problems in machine learning and information theory.
 
-
-Hi, I am currently a final year Dual Degree (BTech and MTech) student 
-in the  \n [http://www.ee.iitm.ac.in/ Electrical Engineering] department 
-at the [https://www.iitm.ac.in/ Indian Institute of Technology, (IIT) Madras]. \n My research interests broadly 
-lie in the areas of information theory, coding theory, \n graph theory, statistical learning.
+Before coming to Cornell, I graduated with a BTech and MTech in [https://www.ee.iitm.ac.in Electrical Engineering] from [https://www.iitm.ac.in IIT Madras] and was fortunate to be advised by [https://www.ee.iitm.ac.in/~andrew Andrew Thangaraj]. 
 
 == Contact 
-*Email* : sourbh(dot)bhadane(at)ee(dot)iitm(dot)ac(dot)in \n
-*Skype* : sourbhnb
+Email : snb62(at)cornell(dot)edu \n
+Office : 306, Frank H.T. Rhodes Hall
+~~~
+
+== Publications
+
+- Sourbh Bhadane, Andrew Thangaraj, "Unequal Locality and Recovery for Locally Recoverable Codes with Availability", /Twenty-third National 
+Conference on Communications/, 2017 	
+- Akshay Gulati, Sourbh Bhadane, Joseph Samuel, Harishankar Ramachandran, R David Koilpillai, "IITMSAT : Innovative Packet Protocol and Concept of Operations",
+/AIAA Conference on Small Satellites/, 2016 [http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3525&context=smallsat \[Poster\]]
+- Jagdish M. Mevada, Joseph Samuel, Sourbh Bhadane, Akshay K. Gulati, R.D Koilpillai, "Design and Implementation of a Robust Downlink Communication System for Nanosatellites", /IEEE 
+International Conference on Small Satellites (Iconspace)/, 2015, pp.164-169, 10-12 Aug 2015 [07283827_Sat.pdf \[PDF\]] 

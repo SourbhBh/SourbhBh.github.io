@@ -1,63 +1,63 @@
 # jemdoc: menu{MENU}{projects.html}
 = Research Projects 
 
-== Locally Recoverable Codes (LRCs) with Availability (Master's Thesis) 
-*Guide :* [http://www.ee.iitm.ac.in/~andrew/ *Prof. Andrew Thangaraj*	] \n \n
-Modern distributed storage systems use erasure codes to protect themselves against server failures or node failures more efficiently and reliably. \n Locally Recoverable Codes (LRCs)
-are a class of codes that seek to minimize the number of nodes required to repair a failed node. LRCs with \n multiple disjoint repair groups find applications in recovering from multiple node failures and 
-accessibility of "hot" data, leading to these codes \n being called LRCs with availability. \n \n My work attempts to construct LRCs with availability that are optimal with respect to distance. 
-In addition, I also try to develop upper bounds \n for various scenarios concerning LRCs with availability and seek to construct codes that meet these bounds. Our key contributions
-so far include
-\n showing optimality of a known construction for special cases, deriving distance upper bounds for LRCs with unequal locality and availability and \n an explicit optimal parity-check matrix construction
-for LRCs with information locality and availability. 
-*Refer* [/publications.html Publication 1]
+#== Locally Recoverable Codes (LRCs) with Availability (Master's Thesis) 
+#*Guide :* [http://www.ee.iitm.ac.in/~andrew/ *Prof. Andrew Thangaraj*	] \n \n
+#Modern distributed storage systems use erasure codes to protect themselves against server failures or node failures more efficiently and reliably. \n Locally Recoverable Codes (LRCs)
+#are a class of codes that seek to minimize the number of nodes required to repair a failed node. LRCs with \n multiple disjoint repair groups find applications in recovering from multiple node failures and 
+#accessibility of "hot" data, leading to these codes \n being called LRCs with availability. \n \n My work attempts to construct LRCs with availability that are optimal with respect to distance. 
+#In addition, I also try to develop upper bounds \n for various scenarios concerning LRCs with availability and seek to construct codes that meet these bounds. Our key contributions
+#so far include
+#\n showing optimality of a known construction for special cases, deriving distance upper bounds for LRCs with unequal locality and availability and \n an explicit optimal parity-check matrix construction
+#for LRCs with information locality and availability. 
+#*Refer* [/publications.html Publication 1]
 
-== Upper Bounds for Gaussian MIMO Z Channels and Weighted Sum-rate Maximization for Gaussian MIMO MAC
-*Guide :* [http://www.ee.iitm.ac.in/~skrishna/ *Prof. Srikrishna Bhashyam*	] \n \n
-I worked with Prof. Srikrishna Bhashyam on two problems in network information theory. The first problem was to find optimal 
-covariance \n matrices that maximize the weighted sum-rate for the Gaussian MIMO Multiple Access Channel. For maximizing the sum-rate an elegant \n water-filling 
-algorithm is given [http://www.comm.utoronto.ca/~weiyu/01262622.pdf here]. Our approach was to extend these ideas and exploit geometric properties of the existing algorithm 
-to \n find a simple waterfilling algorithm that finds covariance matrices which maximize the weighted sum-rate. \n The second problem that I worked on was related to Gaussian MIMO Z Channels or the one-sided interference channel. An upper bound \n on the sum-rate of the Gaussian MIMO Z Channel was proposed by [ieeexplore.ieee.org/iel5/18/4418455/04418479.pdf Jafar and Shamai]. [http://www.ee.iitm.ac.in/~skrishna/papers/tcom15.pdf Prasad et al] proposed a new upper bound based on \n reducing the interference at one of the receivers. Numerically, this was shown to be tighter than the previous upper bound. My work focused \n on obtaining an analytical proof of the tightness. We showed the equivalence of this problem to a simple comparison of determinants of two \n matrices using convex optimization techniques.
+#== Upper Bounds for Gaussian MIMO Z Channels and Weighted Sum-rate Maximization for Gaussian MIMO MAC
+#*Guide :* [http://www.ee.iitm.ac.in/~skrishna/ *Prof. Srikrishna Bhashyam*	] \n \n
+#I worked with Prof. Srikrishna Bhashyam on two problems in network information theory. The first problem was to find optimal 
+#covariance \n matrices that maximize the weighted sum-rate for the Gaussian MIMO Multiple Access Channel. For maximizing the sum-rate an elegant \n water-filling 
+#algorithm is given [http://www.comm.utoronto.ca/~weiyu/01262622.pdf here]. Our approach was to extend these ideas and exploit geometric properties of the existing algorithm 
+#to \n find a simple waterfilling algorithm that finds covariance matrices which maximize the weighted sum-rate. \n The second problem that I worked on was related to Gaussian MIMO Z Channels or the one-sided interference channel. An upper bound \n on the sum-rate of the Gaussian MIMO Z Channel was proposed by [ieeexplore.ieee.org/iel5/18/4418455/04418479.pdf Jafar and Shamai]. [http://www.ee.iitm.ac.in/~skrishna/papers/tcom15.pdf Prasad et al] proposed a new upper bound based on \n reducing the interference at one of the receivers. Numerically, this was shown to be tighter than the previous upper bound. My work focused \n on obtaining an analytical proof of the tightness. We showed the equivalence of this problem to a simple comparison of determinants of two \n matrices using convex optimization techniques.
 
-== Downlink Communication System for IITMSAT
-*Guide :* [https://www.iitm.ac.in/info/fac/davidk *Prof. David Koilpillai*] \n \n
-[http://iitmsat.weebly.com/ IITMSAT] is the nanosatellite initiative of IIT Madras whose primary mission is to study the precipitation of high-energy charged particles \n (protons and electrons) from Van Allen belts. IITMSAT is scheduled to be launched in early 2017. \n\n 
-I was a part of the communication subsystem as a sophomore. From a communications perspective, IITMSAT has a distinctly high downlink \n data rate requirement of about 1 Mb per day which no nanosatellite has attempted previously. In addition, due to the satellite being launched \n in a Low-Earth orbit (LEO), the ground station at IIT Madras has a pass time of approximately 20 minutes per day, thus necessitating the full \n utilization of the pass, including lowe elevation angles where SNR is quite poor. Mitigating these challenges required our subsystem to choose \n novel approaches like using a Software-Defined Radio (Perseus) based receiver and implementing novel receiver algorithms using GNURadio.\n 
-Our downlink system design was accepted for publication at IconSpace, 2015. *Refer* [/publications.html Publication 3] \n
-I also implemented a hard-decision Viterbi decoder for the rate half convolutional code in GNURadio and an interface between GNURadio and \n
-the SDR, Perseus Radio. In a team of two, I worked on developing the packet protocol, inspired from ECSS and CCSDS standards. On the system \n 
-level, I initiated the Concept of Operations (operational description of the satellite's functions) in a team of three. Our work on the packet protocol \n 
-and Concept of Operations was presented at SmallSat, 2016. *Refer* [/publications.html Publication 2]
+#== Downlink Communication System for IITMSAT
+#*Guide :* [https://www.iitm.ac.in/info/fac/davidk *Prof. David Koilpillai*] \n \n
+#[http://iitmsat.weebly.com/ IITMSAT] is the nanosatellite initiative of IIT Madras whose primary mission is to study the precipitation of high-energy charged particles \n (protons and electrons) from Van Allen belts. IITMSAT is scheduled to be launched in early 2017. \n\n 
+#I was a part of the communication subsystem as a sophomore. From a communications perspective, IITMSAT has a distinctly high downlink \n data rate requirement of about 1 Mb per day which no nanosatellite has attempted previously. In addition, due to the satellite being launched \n in a Low-Earth orbit (LEO), the ground station at IIT Madras has a pass time of approximately 20 minutes per day, thus necessitating the full \n utilization of the pass, including lowe elevation angles where SNR is quite poor. Mitigating these challenges required our subsystem to choose \n novel approaches like using a Software-Defined Radio (Perseus) based receiver and implementing novel receiver algorithms using GNURadio.\n 
+#Our downlink system design was accepted for publication at IconSpace, 2015. *Refer* [/publications.html Publication 3] \n
+#I also implemented a hard-decision Viterbi decoder for the rate half convolutional code in GNURadio and an interface between GNURadio and \n
+#the SDR, Perseus Radio. In a team of two, I worked on developing the packet protocol, inspired from ECSS and CCSDS standards. On the system \n 
+#level, I initiated the Concept of Operations (operational description of the satellite's functions) in a team of three. Our work on the packet protocol \n 
+#and Concept of Operations was presented at SmallSat, 2016. *Refer* [/publications.html Publication 2]
 
-= Course Projects 	
+#= Course Projects 	
 
-== Capacity Upper Bounds for the Symmetric Diamond Relay Network
-*Course :* [http://www.ee.iitm.ac.in/~krishnaj/EE6112.htm *Topics in Random Processes and Concentrations*], *Instructor :* [http://www.ee.iitm.ac.in/~krishnaj/ *Prof. Krishna Jagannathan*] \n \n
-In this course project, we were required to come up with novel applications of martingales or concentration inequalities in any area of our choice. \n
-Recently, [https://arxiv.org/abs/1602.08540 Wu-Ozgur-Lie] use the generalized blowing-up lemma and probabilistic geometric properties of typical sets to show looseness of the \n
-cut-set capacity upper bound for the symmetric primitive relay channel. Using similar ideas, I derived tighter upper bounds on the capacity of the \n
-symmetric diamond channel. Extensions of these upper bounds in the case of Gaussian and parallel binary symmetric channels is ongoing. \n
-The term paper of the course project can be found [http://sourbhbh.github.io/CapacityUpperBoundsParallelRelay.pdf *here*].
+#== Capacity Upper Bounds for the Symmetric Diamond Relay Network
+#*Course :* [http://www.ee.iitm.ac.in/~krishnaj/EE6112.htm *Topics in Random Processes and Concentrations*], *Instructor :* [http://www.ee.iitm.ac.in/~krishnaj/ *Prof. Krishna Jagannathan*] \n \n
+#In this course project, we were required to come up with novel applications of martingales or concentration inequalities in any area of our choice. \n
+#Recently, [https://arxiv.org/abs/1602.08540 Wu-Ozgur-Lie] use the generalized blowing-up lemma and probabilistic geometric properties of typical sets to show looseness of the \n
+#cut-set capacity upper bound for the symmetric primitive relay channel. Using similar ideas, I derived tighter upper bounds on the capacity of the \n
+#symmetric diamond channel. Extensions of these upper bounds in the case of Gaussian and parallel binary symmetric channels is ongoing. \n
+#The term paper of the course project can be found [http://sourbhbh.github.io/CapacityUpperBoundsParallelRelay.pdf *here*].
 
-== Poisson Point Processes (PPP) versus Hexagonal Grid Models for Downlink Cellular Networks
-*Course :* Wireless and Cellular Communications, *Instructor :* [http://www.ee.iitm.ac.in/~giri/ *Prof. K. Giridhar*] \n \n
-In a team of three students, I reviewed the seminal work of [http://ieeexplore.ieee.org/document/6042301/ Andrews-Dhillon-Ganti] that pioneered the usage of stochastic geometry in modelling \n 
-cellular networks and made analysis of cellular networks more tractable without compromising on accuracy of the model. We carried out \n 
-simulations demonstrating an improvement of PPP models over hexagonal grid models in terms of coverage probability. One of the observations \n 
-of the paper was that under frequeny-reuse one-third, converage probability performance is not accurate because of the way frequencies are \n
-assigned. We implemented and simulated a Bayesian-like method to increase coverage probability performance. However, tractable analytical  \n
-expressions could not be obtained. A presentation of our work can be found [http://sourbhbh.github.io/Wirelessppt.pdf *here*].
+#== Poisson Point Processes (PPP) versus Hexagonal Grid Models for Downlink Cellular Networks
+#*Course :* Wireless and Cellular Communications, *Instructor :* [http://www.ee.iitm.ac.in/~giri/ *Prof. K. Giridhar*] \n \n
+#In a team of three students, I reviewed the seminal work of [http://ieeexplore.ieee.org/document/6042301/ Andrews-Dhillon-Ganti] that pioneered the usage of stochastic geometry in modelling \n 
+#cellular networks and made analysis of cellular networks more tractable without compromising on accuracy of the model. We carried out \n 
+#simulations demonstrating an improvement of PPP models over hexagonal grid models in terms of coverage probability. One of the observations \n 
+#of the paper was that under frequeny-reuse one-third, converage probability performance is not accurate because of the way frequencies are \n
+#assigned. We implemented and simulated a Bayesian-like method to increase coverage probability performance. However, tractable analytical  \n
+#expressions could not be obtained. A presentation of our work can be found [http://sourbhbh.github.io/Wirelessppt.pdf *here*].
 
-== Design, Construction and Simulation of LDPC and Turbo Codes
-*Course :* [http://www.ee.iitm.ac.in/~pradeep/teaching/ee5161-2015.html *Modern Coding Theory*], *Instructor :* [http://www.ee.iitm.ac.in/~pradeep/ *Prof. Pradeep Sarvepalli*] \n \n
-This project involved implementing capacity-approaching codes with moderate blocklengths of 1000,2000,4000. In a team of two, I \n 
-- Designed degree distributions using EXIT charts and implemented discretized density evolution for a rate half LDPC code \n
-over the BiAWGN channel.
-- Constructed parity-check matrices using McKay's random constructions for blocklengths 1000,2000,4000.
-- Implemented the log-likelihood version of the sum-product algorithm and simulated the performance of the decoder.
-- Simulated the performance of a PCCC log BCJR decoder for the UMTS Turbo Code for the BiAWGN channel.
+#== Design, Construction and Simulation of LDPC and Turbo Codes
+#*Course :* [http://www.ee.iitm.ac.in/~pradeep/teaching/ee5161-2015.html *Modern Coding Theory*], *Instructor :* [http://www.ee.iitm.ac.in/~pradeep/ *Prof. Pradeep Sarvepalli*] \n \n
+#This project involved implementing capacity-approaching codes with moderate blocklengths of 1000,2000,4000. In a team of two, I \n 
+#- Designed degree distributions using EXIT charts and implemented discretized density evolution for a rate half LDPC code \n
+#over the BiAWGN channel.
+#- Constructed parity-check matrices using McKay's random constructions for blocklengths 1000,2000,4000.
+#- Implemented the log-likelihood version of the sum-product algorithm and simulated the performance of the decoder.
+#- Simulated the performance of a PCCC log BCJR decoder for the UMTS Turbo Code for the BiAWGN channel.
  
-The reports for this project can be found [http://sourbhbh.github.io/LDPCrep.pdf *here*] and [http://sourbhbh.github.io/TurboRep.pdf *here*]. 
+#The reports for this project can be found [http://sourbhbh.github.io/LDPCrep.pdf *here*] and [http://sourbhbh.github.io/TurboRep.pdf *here*]. 
 
  
 
