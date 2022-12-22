@@ -4,7 +4,7 @@
 ~~~
  {}{img_left}{mypic.jpg}{}{200}{200}{}
 == About Me
-I am a second year PhD student in the  [https://www.ece.cornell.edu/ ECE] department at Cornell University, jointly advised by [https://people.ece.cornell.edu/acharya/ Jayadev Acharya] and [https://people.ece.cornell.edu/wagner/ Aaron Wagner] . \n My research interests broadly lie in theoretical problems in machine learning and information theory.
+I am a PhD student in the  [https://www.ece.cornell.edu/ ECE] department at Cornell University, jointly advised by [https://people.ece.cornell.edu/acharya/ Jayadev Acharya] and [https://people.ece.cornell.edu/wagner/ Aaron Wagner] . \n My research focuses broadly on problems in information theory and machine learning. Recently, I have been exploring the intersection of causality and machine learning, specifically causal discovery and causal representation learning. 
 
 Before coming to Cornell, I graduated with a BTech and MTech in [https://www.ee.iitm.ac.in Electrical Engineering] from [https://www.iitm.ac.in IIT Madras] and was fortunate to be advised by [https://www.ee.iitm.ac.in/~andrew Andrew Thangaraj]. 
 
@@ -14,7 +14,11 @@ Office : 306, Frank H.T. Rhodes Hall
 ~~~
 
 == Publications
-
+- Jayadev Acharya, Sourbh Bhadane, Arnab Bhattacharya, Saravanan Kandasamy, Ziteng Sun, "Sample Complexity of Distinguishing Cause from Effect", in submission to AISTATS 2023.
+- Sourbh Bhadane, Aaron B. Wagner, Johannes Ballé, "Do Neural Networks Compress Manifolds Optimally?", Information Theory Workshop (ITW), 582-587, 2022. 
+- Sourbh Bhadane, Aaron B. Wagner, "On One-Bit Quantization", International Symposium on Information Theory (ISIT), 584-589, 2022.  
+- Sourbh Bhadane, Jayadev Acharya, Aaron B. Wagner, "Principal Bit Analysis: Autoencoding with Schur-Concave Loss", Proceedings of the 38th International Conference on Machine Learning, PMLR 139:852-862, 2021. 
+- Aaron B Wagner, Elaine L Hill, Sean E Ryan, Ziteng Sun, Grace Deng, Sourbh Bhadane, Victor Hernandez Martinez, Peter Wu, Dongmei Li, Ajay Anand, Jayadev Acharya, David S Matteson, "Social distancing merely stabilized COVID‐19 in the US", Stat e302, 2020.    
 - Jayadev Acharya, Sourbh Bhadane, Piotr Indyk, Ziteng Sun, "Entropy Estimation of Distributions in Constant Space", Advances in Neural Information Processing Systems 32, (NeurIPS 2019), 2019 
 - Sourbh Bhadane, Andrew Thangaraj, "Unequal Locality and Recovery for Locally Recoverable Codes with Availability", /Twenty-third National 
 Conference on Communications/, 2017 	
