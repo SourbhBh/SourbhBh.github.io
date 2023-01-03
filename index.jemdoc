@@ -3,26 +3,70 @@
 
 ~~~
  {}{img_left}{mypic.jpg}{}{200}{200}{}
-== About Me
-I am a PhD student in the  [https://www.ece.cornell.edu/ ECE] department at Cornell University, jointly advised by [https://people.ece.cornell.edu/acharya/ Jayadev Acharya] and [https://people.ece.cornell.edu/wagner/ Aaron Wagner] . \n My research focuses broadly on problems in information theory and machine learning. Recently, I have been exploring the intersection of causality and machine learning, specifically causal discovery and causal representation learning. 
+ PhD candidate, \n
+ [https://www.ece.cornell.edu/ School of Electrical and Computer Engineering, Cornell University]. \n
+ [https://scholar.google.co.in/citations?hl=en&user=fDnT5CIAAAAJ&view_op=list_works&sortby=pubdate \[Google Scholar\]] [https://github.com/SourbhBh \[GitHub\]] [ \[CV\]] 
 
-Before coming to Cornell, I graduated with a BTech and MTech in [https://www.ee.iitm.ac.in Electrical Engineering] from [https://www.iitm.ac.in IIT Madras] and was fortunate to be advised by [https://www.ee.iitm.ac.in/~andrew Andrew Thangaraj]. 
-
-== Contact 
-Email : snb62(at)cornell(dot)edu \n
-Office : 306, Frank H.T. Rhodes Hall
+ Contact: snb62(at)cornell(dot)edu. 
 ~~~
 
-== Publications
-- Jayadev Acharya, Sourbh Bhadane, Arnab Bhattacharya, Saravanan Kandasamy, Ziteng Sun, "Sample Complexity of Distinguishing Cause from Effect", in submission to AISTATS 2023.
-- Sourbh Bhadane, Aaron B. Wagner, Johannes Ballé, "Do Neural Networks Compress Manifolds Optimally?", Information Theory Workshop (ITW), 582-587, 2022. 
-- Sourbh Bhadane, Aaron B. Wagner, "On One-Bit Quantization", International Symposium on Information Theory (ISIT), 584-589, 2022.  
-- Sourbh Bhadane, Jayadev Acharya, Aaron B. Wagner, "Principal Bit Analysis: Autoencoding with Schur-Concave Loss", Proceedings of the 38th International Conference on Machine Learning, PMLR 139:852-862, 2021. 
-- Aaron B Wagner, Elaine L Hill, Sean E Ryan, Ziteng Sun, Grace Deng, Sourbh Bhadane, Victor Hernandez Martinez, Peter Wu, Dongmei Li, Ajay Anand, Jayadev Acharya, David S Matteson, "Social distancing merely stabilized COVID‐19 in the US", Stat e302, 2020.    
-- Jayadev Acharya, Sourbh Bhadane, Piotr Indyk, Ziteng Sun, "Entropy Estimation of Distributions in Constant Space", Advances in Neural Information Processing Systems 32, (NeurIPS 2019), 2019 
-- Sourbh Bhadane, Andrew Thangaraj, "Unequal Locality and Recovery for Locally Recoverable Codes with Availability", /Twenty-third National 
-Conference on Communications/, 2017 	
-- Akshay Gulati, Sourbh Bhadane, Joseph Samuel, Harishankar Ramachandran, R David Koilpillai, "IITMSAT : Innovative Packet Protocol and Concept of Operations",
-/AIAA Conference on Small Satellites/, 2016 [http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3525&context=smallsat \[Poster\]]
-- Jagdish M. Mevada, Joseph Samuel, Sourbh Bhadane, Akshay K. Gulati, R.D Koilpillai, "Design and Implementation of a Robust Downlink Communication System for Nanosatellites", /IEEE 
-International Conference on Small Satellites (Iconspace)/, 2015, pp.164-169, 10-12 Aug 2015 [07283827_Sat.pdf \[PDF\]] 
+== About Me
+I am a PhD candidate in the  [https://www.ece.cornell.edu/ *Electrical and Computer Engineering*] at [https://www.cornell.edu *Cornell University*], jointly advised by [https://people.ece.cornell.edu/wagner/ *Aaron Wagner*] and [https://people.ece.cornell.edu/acharya/ *Jayadev Acharya*]. \n My research focuses broadly on problems in information theory and machine learning. Recently I have been exploring the intersection of causality and machine learning, specifically causal discovery and causal representation learning. 
+
+Before coming to Cornell, I graduated with a BTech and MTech in [https://www.ee.iitm.ac.in *Electrical Engineering*] from [https://www.iitm.ac.in *Indian Institute of Technology, Madras*] and was fortunate to be advised by [https://www.ee.iitm.ac.in/~andrew *Andrew Thangaraj*]. 
+
+== Publications and Preprints
+- Jayadev Acharya, Sourbh Bhadane, Arnab Bhattacharya, Saravanan Kandasamy, Ziteng Sun, \n 
+ /"Sample Complexity of Distinguishing Cause from Effect"/. \n
+  In submission.
+
+- Sourbh Bhadane, Aaron B. Wagner, Johannes Ballé, \n
+  [https://arxiv.org/abs/2205.08518 /"Do Neural Networks Compress Manifolds Optimally?"/]. \n
+  Information Theory Workshop, *ITW 2022*. 
+
+- Sourbh Bhadane, Aaron B. Wagner, \n
+ [https://arxiv.org/abs/2202.05292 /"On One-Bit Quantization"/]. \n
+ International Symposium on Information Theory, *ISIT 2022*.  
+
+- Sourbh Bhadane, Aaron B. Wagner, Jayadev Acharya,  \n
+ [https://arxiv.org/abs/2106.02796 /"Principal Bit Analysis: Autoencoding with Schur-Concave Loss"/]. \n
+ International Conference on Machine Learning, *ICML 2021*. [https://icml.cc/virtual/2021/spotlight/9978 \[ ICML Talk \]], [SCW.pdf \[SCW Poster\]]
+
+- Aaron B. Wagner, Elaine L. Hill, Sean E. Ryan, Ziteng Sun, Grace Deng, Sourbh Bhadane, Victor Hernandez Martinez, Peter Wu, Dongmei Li, Ajay Anand, Jayadev Acharya, David S Matteson, \n 
+ [https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.302 /"Social Distancing merely stabilized COVID‐19 in the United States"/]. \n
+ *Stat, 2020*.    
+
+- Jayadev Acharya, Sourbh Bhadane, Piotr Indyk, Ziteng Sun, \n
+ [https://arxiv.org/abs/1911.07976 /"Entropy Estimation of Distributions in Constant Space"/]. \n 
+ Conference on Neural Information Processing Systems, *NeurIPS 2019*. [https://www.youtube.com/watch?v=uP6lxdu3tf8&t=1s \[WOLA Talk\]],[entropyitaposter.pdf \[ITA Poster\]] 
+
+- Sourbh Bhadane, Andrew Thangaraj, \n
+ [https://arxiv.org/pdf/1705.05005 /"Unequal Locality and Recovery for Locally Recoverable Codes with Availability"/].\n 
+  National Conference on Communications, *NCC, 2017*.
+
+- Akshay Gulati, Sourbh Bhadane, Joseph Samuel, Harishankar Ramachandran, R. David Koilpillai, \n 
+ [http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3525&context=smallsat /"IITMSAT : Innovative Packet Protocol and Concept of Operations"/]. \n
+  AIAA Conference on Small Satellites, *SmallSat, 2016*. 
+
+- Jagdish M. Mevada, Joseph Samuel, Sourbh Bhadane, Akshay Gulati, R. David Koilpillai, \n
+ [https://ieeexplore.ieee.org/abstract/document/7283827 /"Design and Implementation of a Robust Downlink Communication System for Nanosatellites"/]. \n
+ IEEE International Conference on Small Satellites, *Iconspace, 2015*. 
+
+== Reviewing Service 
+NeurIPS 2022,2021; ICML 2022; ICLR 2023,2022; AISTATS 2023; ISIT 2022,2021,2020,2019; ITW 2022,2021; DCC 2023,2021,2019. 
+
+== Teaching 
+- *Instructor* \n 
+/MATH 112: Contemporary Mathematics (Spring 2022; Auburn Correctional Facility, Fall 2022; Five Points Correctional Facility): / \n
+I was an independent instructor of a mathematics course for incarcerated students enrolled in community college via the [https://cpep.cornell.edu/ Cornell Prison Education Program]. \n I designed course content including lectures, homework and exams. 
+
+- *Teaching Assistant* \n
+/ECE 2720: Data Science for Engineers (Spring 2022, Fall 2019):/ \n
+I was a TA for the second iteration of this course in Fall 2019. My responsibilities involved creating lecture notes, homework solutions and 
+ 
+- *Grader* \n
+/ECE 4200: Fundamentals of Machine Learning (Fall 2021, Fall 2020, Spring 2020, Spring 2019, Spring 2018):/\n 
+I had great fun creating four in-class Machine Learning competitions! Check them out: [https://www.kaggle.com/c/spoken-digit-pair-recognition/ Spoken Digit-Pair Recognition], [https://www.kaggle.com/c/font-recognition Font Recognition], [https://www.kaggle.com/c/modulation-prediction Modulation Prediction], [https://www.kaggle.com/c/guilty-or-not-guilty Guilty or Not Guilty?]. \n
+/ECE 5620: Fundamentals of Data Compression (Spring 2021)/
+
+
