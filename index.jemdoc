@@ -5,17 +5,22 @@
  {}{img_left}{mypic.jpg}{}{200}{200}{}
  PhD candidate, \n
  [https://www.ece.cornell.edu/ School of Electrical and Computer Engineering, Cornell University]. \n
- [https://scholar.google.co.in/citations?hl=en&user=fDnT5CIAAAAJ&view_op=list_works&sortby=pubdate \[Google Scholar\]] [https://github.com/SourbhBh \[GitHub\]] [ \[CV\]] 
+ [https://scholar.google.co.in/citations?hl=en&user=fDnT5CIAAAAJ&view_op=list_works&sortby=pubdate \[Google Scholar\]] [https://github.com/SourbhBh \[GitHub\]] [resume_sourbh.pdf \[CV\]] 
 
  Contact: snb62(at)cornell(dot)edu. 
 ~~~
 
 == About Me
-I am a PhD candidate in the  [https://www.ece.cornell.edu/ *Electrical and Computer Engineering*] at [https://www.cornell.edu *Cornell University*], jointly advised by [https://people.ece.cornell.edu/wagner/ *Aaron Wagner*] and [https://people.ece.cornell.edu/acharya/ *Jayadev Acharya*]. \n My research focuses broadly on problems in information theory and machine learning. Recently I have been exploring the intersection of causality and machine learning, specifically causal discovery and causal representation learning. 
+I am a PhD candidate in the  [https://www.ece.cornell.edu/ *School of Electrical and Computer Engineering*] at [https://www.cornell.edu *Cornell University*], jointly advised by [https://people.ece.cornell.edu/wagner/ *Aaron Wagner*] and [https://people.ece.cornell.edu/acharya/ *Jayadev Acharya*]. Before coming to Cornell, I graduated with a BTech and MTech in [https://www.ee.iitm.ac.in *Electrical Engineering*] from [https://www.iitm.ac.in *Indian Institute of Technology, Madras*] and was fortunate to be advised by [https://www.ee.iitm.ac.in/~andrew *Andrew Thangaraj*]. 
 
-Before coming to Cornell, I graduated with a BTech and MTech in [https://www.ee.iitm.ac.in *Electrical Engineering*] from [https://www.iitm.ac.in *Indian Institute of Technology, Madras*] and was fortunate to be advised by [https://www.ee.iitm.ac.in/~andrew *Andrew Thangaraj*]. 
+== Research Interests
+My research interests broadly include information theory and machine learning. A few specific research interests include 
+- *Modern Data Compression Theory*: I am interested in understanding how stochastically-trained, artificial-neural-network-based (ANN-based) compressors perform well on multimedia sources. To this end, my work considers prototypical sources that are analytically tractable for a rate-distortion analysis and examines whether existing ANN-based compressors achieve optimal performance on these sources. 
+
+- *Causal Inference and Machine Learning*: Recently I have been exploring the intersection of causal inference and machine learning, specifically I am interested in making machine learning algorithms more "causal-aware" as a means to make them robust and interpretable. I am also interested in exploring how machine-learning algorithms can be adapted for causal inference. 
 
 == Publications and Preprints
+
 - Jayadev Acharya, Sourbh Bhadane, Arnab Bhattacharya, Saravanan Kandasamy, Ziteng Sun, \n 
  /"Sample Complexity of Distinguishing Cause from Effect"/. \n
   In submission.
@@ -62,7 +67,7 @@ I was an independent instructor of a mathematics course for incarcerated student
 
 - *Teaching Assistant* \n
 /ECE 2720: Data Science for Engineers (Spring 2022, Fall 2019):/ \n
-I was a TA for the second iteration of this course in Fall 2019. My responsibilities involved creating lecture notes, homework solutions and 
+I was an early-stage TA for the second iteration of this course in Fall 2019 and one of the Head TAs for a subsequent offering in Spring 2022. \n  I produced extensive lecture notes that were used as a primary reference for the course, led dicussion sections and graded exams. 
  
 - *Grader* \n
 /ECE 4200: Fundamentals of Machine Learning (Fall 2021, Fall 2020, Spring 2020, Spring 2019, Spring 2018):/\n 
