@@ -14,15 +14,15 @@
 I am a PhD candidate in the  [https://www.ece.cornell.edu/ *School of Electrical and Computer Engineering*] at [https://www.cornell.edu *Cornell University*], jointly advised by [https://people.ece.cornell.edu/wagner/ *Aaron Wagner*] and [https://people.ece.cornell.edu/acharya/ *Jayadev Acharya*]. Before coming to Cornell, I graduated with a BTech and MTech in [https://www.ee.iitm.ac.in *Electrical Engineering*] from [https://www.iitm.ac.in *Indian Institute of Technology, Madras*] and was fortunate to be advised by [https://www.ee.iitm.ac.in/~andrew *Andrew Thangaraj*]. 
 
 == Research Interests
-My research interests broadly include information theory and machine learning. A few specific research interests include 
-- *Modern Data Compression Theory*: I am interested in understanding how stochastically-trained, artificial-neural-network-based (ANN-based) compressors perform well on multimedia sources. To this end, my work considers prototypical sources that are analytically tractable for a rate-distortion analysis and examines whether existing ANN-based compressors achieve optimal performance on these sources. 
+My research interests broadly include the areas of information theory, machine learning and recently, causal inference. A few specific research interests include 
+- *Modern Data Compression Theory*: I am interested in understanding how stochastically-trained, artificial-neural-network-based (ANN-based) compressors perform well on multimedia sources. Since most multimedia sources are high-dimensional but thought to lie on a low-dimensional manifold, a good chunk of my Ph.D. work considers such manifold sources whose optimal performance is tractable and obtained in terms of a rate-distortion tradeoff. This then helps compare the performance of ANN-based compressors with the optimal rate-distortion tradeoff.
 
-- *Causal Inference and Machine Learning*: Recently I have been exploring the intersection of causal inference and machine learning, specifically I am interested in making machine learning algorithms more "causal-aware" as a means to make them robust and interpretable. I am also interested in exploring how machine-learning algorithms can be adapted for causal inference. 
+- *Causal Inference and Machine Learning*: Recently I have been exploring the intersection of causal inference and machine learning. Specifically I am interested in making machine learning (ML) algorithms more "causal-aware" as a means to make them robust and interpretable. I am also interested in exploring whether such "causal-aware" algorithms have an edge from a sample-complexity viewpoint.  
 
 == Publications and Preprints
 
-- Jayadev Acharya, Sourbh Bhadane, Arnab Bhattacharya, Saravanan Kandasamy, Ziteng Sun, \n 
- /"Sample Complexity of Distinguishing Cause from Effect"/. \n
+- Jayadev Acharya, Sourbh Bhadane, Arnab Bhattacharyya, Saravanan Kandasamy, Ziteng Sun, \n 
+ /"Sample Complexity of Distinguishing Cause from Effect"/. [https://www.youtube.com/watch?v=h75muneZCd8 \[Talk by Arnab at Simons Causality Program \]] \n
   In submission.
 
 - Sourbh Bhadane, Aaron B. Wagner, Johannes Ballé, \n
