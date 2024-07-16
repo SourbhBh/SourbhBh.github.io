@@ -3,7 +3,7 @@
 
 ~~~
  {}{img_left}{mypic.jpg}{}{200}{200}{}
- Postdoc, \n
+ Postdoctoral Researcher \n
  [https://www.icai.ai/labs/mercury-machine-learning-lab-amsterdam Unviersity of Amsterdam, Mercury Machine Learning Lab]. \n
  [https://scholar.google.co.in/citations?hl=en&user=fDnT5CIAAAAJ&view_op=list_works&sortby=pubdate \[Google Scholar\]] [https://github.com/SourbhBh \[GitHub\]] [resume_sourbh.pdf \[CV\]] 
 
@@ -12,6 +12,9 @@
 
 == About Me
 I am a postdoctoral researcher at the Korteweg-De Vries Institute (KdVI), University of Amsterdam working with [https://staff.fnwi.uva.nl/j.m.mooij/ *Joris Mooij*]. I am also a member of the Mercury Machine Learning Lab, a collaboration between University of Amsterdam, Delft University of Technology and Booking.com. I graduated from the [https://www.ece.cornell.edu/ *School of Electrical and Computer Engineering*] at [https://www.cornell.edu *Cornell University*], where I was jointly advised by [https://people.ece.cornell.edu/wagner/ *Aaron Wagner*] and [https://people.ece.cornell.edu/acharya/ *Jayadev Acharya*]. In a past life, I was a BTech and MTech student in [https://www.ee.iitm.ac.in *Electrical Engineering*] from [https://www.iitm.ac.in *Indian Institute of Technology, Madras*] and was fortunate to be advised by [https://www.ee.iitm.ac.in/~andrew *Andrew Thangaraj*]. 
+
+== Research Interests
+I am broadly interested in fundamental problems in causal inference, machine learning and information theory. Recent specific interests include applications of causal inference for reasoning about fairness and leveraging interventional data for causal discovery. During my PhD, I devoted a significant amount of time in understanding how stochastically-trained, artificial-neural-network-based (ANN-based) compressors perform well on multimedia sources. 
 
 == Publications and Preprints
 
@@ -52,25 +55,25 @@ I am a postdoctoral researcher at the Korteweg-De Vries Institute (KdVI), Univer
  IEEE International Conference on Small Satellites, *Iconspace, 2015*. 
 
 == Service 
-Program Committee: Publication Chair, CLeaR 2024
-Reviewing: NeurIPS 2024,2022,2021; ICML 2022; ICLR 2024,2023,2022; AISTATS 2023; ISIT 2022,2021,2020,2019; ITW 2022,2021; DCC 2023,2021,2019; UAI 2024. 
+Program Committee: Publication Chair, CLeaR 2024 \n
+Reviewing: UAI,NeurIPS,ICML,ICLR,AISTATS,ISIT,ITW,DCC. 
 
 == Teaching 
 - *Instructor* \n 
-
-/Statistics for Sciences (Spring 2024, Amsterdam Unviersity College): / \n
-/Mathematics for Chemical Sciences (Fall 2023, University of Amsterdam): / \n
-/MATH 112: Contemporary Mathematics (Spring 2022; Auburn Correctional Facility, Fall 2022; Five Points Correctional Facility): / \n
-%I was an independent instructor of a mathematics course for incarcerated students enrolled in community college via the [https://cpep.cornell.edu/ Cornell Prison Education Program]. \n I designed course content including lectures, homework and exams. 
+/Statistics for Sciences (Spring 2024, Amsterdam Unviersity College) / \n
+/Mathematics for Chemical Sciences (Fall 2023, University of Amsterdam) / \n
+/MATH 112: Contemporary Mathematics (Spring 2022; Auburn Correctional Facility, Fall 2022; Five Points Correctional Facility) / \n
+I was an independent instructor of a mathematics course for incarcerated students enrolled in community college via the [https://cpep.cornell.edu/ Cornell Prison Education Program]. 
 
 
 - *Teaching Assistant* \n
 /ECE 2720: Data Science for Engineers (Spring 2022, Fall 2019, Cornell):/ \n
-I was an early-stage TA for the second iteration of this course in Fall 2019 and one of the Head TAs for a subsequent offering in Spring 2022. \n  I produced extensive lecture notes that were used as a primary reference for the course, led dicussion sections and graded exams. 
+#I was an early-stage TA for the second iteration of this course in Fall 2019 and one of the Head TAs for a subsequent offering in Spring 2022. \n  I produced extensive lecture notes that were used as a primary reference for the course, led dicussion sections and graded exams. 
  
 - *Grader* \n
 /ECE 4200: Fundamentals of Machine Learning (Fall 2021, Fall 2020, Spring 2020, Spring 2019, Spring 2018, Cornell):/\n 
-I had great fun creating four in-class Machine Learning competitions! Check them out: [https://www.kaggle.com/c/spoken-digit-pair-recognition/ Spoken Digit-Pair Recognition], [https://www.kaggle.com/c/font-recognition Font Recognition], [https://www.kaggle.com/c/modulation-prediction Modulation Prediction], [https://www.kaggle.com/c/guilty-or-not-guilty Guilty or Not Guilty?]. \n
-/ECE 5620: Fundamentals of Data Compression (Spring 2021)/
+I had great fun creating four in-class Machine Learning competitions! \n
+Check them out: [https://www.kaggle.com/c/spoken-digit-pair-recognition/ Spoken Digit-Pair Recognition], [https://www.kaggle.com/c/font-recognition Font Recognition], [https://www.kaggle.com/c/modulation-prediction Modulation Prediction], [https://www.kaggle.com/c/guilty-or-not-guilty Guilty or Not Guilty?]. \n
+/ECE 5620: Fundamentals of Data Compression (Spring 2021, Cornell)/
 
 
