@@ -3,21 +3,15 @@
 
 ~~~
  {}{img_left}{mypic.jpg}{}{200}{200}{}
- PhD candidate, \n
- [https://www.ece.cornell.edu/ School of Electrical and Computer Engineering, Cornell University]. \n
+ Postdoc, \n
+ [https://www.icai.ai/labs/mercury-machine-learning-lab-amsterdam Unviersity of Amsterdam, Mercury Machine Learning Lab]. \n
  [https://scholar.google.co.in/citations?hl=en&user=fDnT5CIAAAAJ&view_op=list_works&sortby=pubdate \[Google Scholar\]] [https://github.com/SourbhBh \[GitHub\]] [resume_sourbh.pdf \[CV\]] 
 
- Contact: snb62(at)cornell(dot)edu. 
+ Contact: s(dot)n(dot)bhadane(at)uva(dot)nl. 
 ~~~
 
 == About Me
-I am a PhD candidate in the  [https://www.ece.cornell.edu/ *School of Electrical and Computer Engineering*] at [https://www.cornell.edu *Cornell University*], jointly advised by [https://people.ece.cornell.edu/wagner/ *Aaron Wagner*] and [https://people.ece.cornell.edu/acharya/ *Jayadev Acharya*]. Before coming to Cornell, I graduated with a BTech and MTech in [https://www.ee.iitm.ac.in *Electrical Engineering*] from [https://www.iitm.ac.in *Indian Institute of Technology, Madras*] and was fortunate to be advised by [https://www.ee.iitm.ac.in/~andrew *Andrew Thangaraj*]. 
-
-== Research Interests
-My research interests broadly include the areas of information theory, machine learning and recently, causal inference. A few specific research interests include 
-- *Modern Data Compression Theory*: I am interested in understanding how stochastically-trained, artificial-neural-network-based (ANN-based) compressors perform well on multimedia sources. Since most multimedia sources are high-dimensional but thought to lie on a low-dimensional manifold, a good chunk of my Ph.D. work considers such manifold sources whose optimal performance is tractable and obtained in terms of a rate-distortion tradeoff. This then helps compare the performance of ANN-based compressors with the optimal rate-distortion tradeoff.
-
-- *Causal Inference and Machine Learning*: Recently I have been exploring the intersection of causal inference and machine learning. Specifically I am interested in making machine learning (ML) algorithms more "causal-aware" as a means to make them robust and interpretable. I am also interested in exploring whether such "causal-aware" algorithms have an edge from a sample-complexity viewpoint.  
+I am a postdoctoral researcher at the Korteweg-De Vries Institute (KdVI), University of Amsterdam working with [https://staff.fnwi.uva.nl/j.m.mooij/ *Joris Mooij*]. I am also a member of the Mercury Machine Learning Lab, a collaboration between University of Amsterdam, Delft University of Technology and Booking.com. I graduated from the [https://www.ece.cornell.edu/ *School of Electrical and Computer Engineering*] at [https://www.cornell.edu *Cornell University*], where I was jointly advised by [https://people.ece.cornell.edu/wagner/ *Aaron Wagner*] and [https://people.ece.cornell.edu/acharya/ *Jayadev Acharya*]. In a past life, I was a BTech and MTech student in [https://www.ee.iitm.ac.in *Electrical Engineering*] from [https://www.iitm.ac.in *Indian Institute of Technology, Madras*] and was fortunate to be advised by [https://www.ee.iitm.ac.in/~andrew *Andrew Thangaraj*]. 
 
 == Publications and Preprints
 
@@ -57,20 +51,25 @@ My research interests broadly include the areas of information theory, machine l
  [https://ieeexplore.ieee.org/abstract/document/7283827 /"Design and Implementation of a Robust Downlink Communication System for Nanosatellites"/]. \n
  IEEE International Conference on Small Satellites, *Iconspace, 2015*. 
 
-== Reviewing Service 
-NeurIPS 2022,2021; ICML 2022; ICLR 2023,2022; AISTATS 2023; ISIT 2022,2021,2020,2019; ITW 2022,2021; DCC 2023,2021,2019. 
+== Service 
+Program Committee: Publication Chair, CLeaR 2024
+Reviewing: NeurIPS 2024,2022,2021; ICML 2022; ICLR 2024,2023,2022; AISTATS 2023; ISIT 2022,2021,2020,2019; ITW 2022,2021; DCC 2023,2021,2019; UAI 2024. 
 
 == Teaching 
 - *Instructor* \n 
+
+/Statistics for Sciences (Spring 2024, Amsterdam Unviersity College): / \n
+/Mathematics for Chemical Sciences (Fall 2023, University of Amsterdam): / \n
 /MATH 112: Contemporary Mathematics (Spring 2022; Auburn Correctional Facility, Fall 2022; Five Points Correctional Facility): / \n
-I was an independent instructor of a mathematics course for incarcerated students enrolled in community college via the [https://cpep.cornell.edu/ Cornell Prison Education Program]. \n I designed course content including lectures, homework and exams. 
+%I was an independent instructor of a mathematics course for incarcerated students enrolled in community college via the [https://cpep.cornell.edu/ Cornell Prison Education Program]. \n I designed course content including lectures, homework and exams. 
+
 
 - *Teaching Assistant* \n
-/ECE 2720: Data Science for Engineers (Spring 2022, Fall 2019):/ \n
+/ECE 2720: Data Science for Engineers (Spring 2022, Fall 2019, Cornell):/ \n
 I was an early-stage TA for the second iteration of this course in Fall 2019 and one of the Head TAs for a subsequent offering in Spring 2022. \n  I produced extensive lecture notes that were used as a primary reference for the course, led dicussion sections and graded exams. 
  
 - *Grader* \n
-/ECE 4200: Fundamentals of Machine Learning (Fall 2021, Fall 2020, Spring 2020, Spring 2019, Spring 2018):/\n 
+/ECE 4200: Fundamentals of Machine Learning (Fall 2021, Fall 2020, Spring 2020, Spring 2019, Spring 2018, Cornell):/\n 
 I had great fun creating four in-class Machine Learning competitions! Check them out: [https://www.kaggle.com/c/spoken-digit-pair-recognition/ Spoken Digit-Pair Recognition], [https://www.kaggle.com/c/font-recognition Font Recognition], [https://www.kaggle.com/c/modulation-prediction Modulation Prediction], [https://www.kaggle.com/c/guilty-or-not-guilty Guilty or Not Guilty?]. \n
 /ECE 5620: Fundamentals of Data Compression (Spring 2021)/
 
