@@ -16,11 +16,17 @@ I am a postdoctoral researcher at the Korteweg-De Vries Institute (KdVI), Univer
 == Research Interests
 I am broadly interested in fundamental problems in causal inference, machine learning and information theory. Recent specific interests include applications of causal inference for reasoning about fairness and leveraging interventional data for causal discovery. During my PhD, I devoted a significant amount of time in understanding how stochastically-trained, artificial-neural-network-based (ANN-based) compressors perform well on multimedia sources. 
 
+== News 
+
+- \[May '25 \] I talked about my recent work on causal fairness at the [https://amscausality.github.io/upcoming/ Amsterdam Causality Meeting] \n
+- \[May '25 \] Our paper on [https://arxiv.org/abs/2502.10161 a causal fairness analysis of the Berkeley data] was accepted to UAI 2025. Come find me at UAI for a chat about it!
+- \[May '25 \] I had a great time at CLeaR 2025. Congratulations to all the attendees and organizers for making it a success.
+
 == Publications and Preprints
 
 - Sourbh Bhadane, Joris M. Mooij, Philip Boeken, Onno Zoeter, \n
-[https://arxiv.org/abs/2502.10161 /"Revisiting the Berkeley Admissions data: Statistical tests for Causal Hypothesis"/].\n
-Under Review
+[https://arxiv.org/abs/2502.10161 /"Revisiting the Berkeley Admissions data: Statistical Tests for Causal Hypotheses"/].\n
+Conference on Uncertainty in Artificial Intelligence, *UAI 2025*. 
 
 - Jayadev Acharya, Sourbh Bhadane, Arnab Bhattacharyya, Saravanan Kandasamy, Ziteng Sun, \n 
  [https://proceedings.mlr.press/v206/acharya23b.html /"Sample Complexity of Distinguishing Cause from Effect"/]. [https://www.youtube.com/watch?v=h75muneZCd8 \[Talk by Arnab at Simons Causality Program \]] \n
@@ -59,15 +65,16 @@ Under Review
  IEEE International Conference on Small Satellites, *Iconspace, 2015*. 
 
 == Service 
-Program Committee: Publication Chair, CLeaR 2024 \n
+Program Committee: Publication Chair - CLeaR 2024, 2025 \n
 Reviewing: UAI,NeurIPS,ICML,ICLR,AISTATS,ISIT,ITW,DCC. 
 
 == Teaching 
 - *Instructor* \n 
-/Statistics for Sciences (Spring 2024, Amsterdam Unviersity College) / \n
+/Statistics for Sciences (Spring 2024, 2025, Amsterdam Unviersity College) / \n
+/Calculus (Fall 2024, Amsterdam University College) / \n
 /Mathematics for Chemical Sciences (Fall 2023, University of Amsterdam) / \n
 /MATH 112: Contemporary Mathematics (Spring 2022; Auburn Correctional Facility, Fall 2022; Five Points Correctional Facility) / \n
-I was an independent instructor of a mathematics course for incarcerated students enrolled in community college via the [https://cpep.cornell.edu/ Cornell Prison Education Program]. 
+I was an instructor of a Mathematics course for incarcerated students enrolled in community college via the [https://cpep.cornell.edu/ Cornell Prison Education Program]. 
 
 
 - *Teaching Assistant* \n
